@@ -106,7 +106,6 @@ const Content: React.FC = () => {
           })
         }}/>
       </div>
-      {JSON.stringify(topics)}
     </div>
   )
 }
